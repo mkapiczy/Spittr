@@ -1,0 +1,8 @@
+spitter\config\RootConfig.class
+spitter\data\SpittleRepository.class
+spitter\web\HomeController.class
+spitter\config\SpittrWebAppInitializer.class
+spitter\config\WebConfig.class
+spitter\data\Spittle.class
+spitter\web\SpittleController.class
+spitter\data\SpittleRepositoryBean.class
