@@ -11,3 +11,5 @@ tmp/
 **/target/
 **/*.metadata
 **/*.recommenders
+**/target/**
+.classpath
